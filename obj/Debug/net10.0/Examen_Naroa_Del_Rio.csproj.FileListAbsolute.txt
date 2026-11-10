@@ -1,0 +1,14 @@
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\Examen_Naroa_Del_Rio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\Examen_Naroa_Del_Rio.AssemblyInfoInputs.cache
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\Examen_Naroa_Del_Rio.AssemblyInfo.cs
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\Examen_Naroa_Del_Rio.csproj.CoreCompileInputs.cache
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\bin\Debug\net10.0\Examen_Naroa_Del_Rio.exe
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\bin\Debug\net10.0\Examen_Naroa_Del_Rio.deps.json
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\bin\Debug\net10.0\Examen_Naroa_Del_Rio.runtimeconfig.json
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\bin\Debug\net10.0\Examen_Naroa_Del_Rio.dll
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\bin\Debug\net10.0\Examen_Naroa_Del_Rio.pdb
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\Examen_Naroa_Del_Rio.dll
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\refint\Examen_Naroa_Del_Rio.dll
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\Examen_Naroa_Del_Rio.pdb
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\Examen_Naroa_Del_Rio.genruntimeconfig.cache
+C:\Users\naroa\Desktop\accesoDatos\Examen_AAD_NaroaDelRio\Examen_Naroa_Del_Rio\obj\Debug\net10.0\ref\Examen_Naroa_Del_Rio.dll
